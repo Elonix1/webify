@@ -79,7 +79,7 @@ such as desktops ,tablets ,mobile phones,responsive web design uses <i>HTML</i> 
 
  <hr>
 
-<p> since a great deal of user use smart phones,responsive design is a must for optimal ux and ui </p> <b><hr><b>
+<p> since a great deal of users use smart phones,responsive design is a must for optimal ux and ui </p> <b><hr><b>
 
 </div>
 
