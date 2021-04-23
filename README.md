@@ -8,11 +8,11 @@ web portfolio
 <meta charset="utf-8">
 <meta name ="viewport" content="width=device-width,initial-scale=1.0">
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="C:\Users\TOSHIBA\Desktop\Mywebsite\css\styles.css">
-
+-->
 
 <div class="header">
 <h1> 
@@ -61,7 +61,7 @@ function myFunction(x){x.classList.toggle("change");}
 
 <div style="color:steelblue;align:center">
 <h2>Project x </h2></div> <hr>
-<!--<style>
+<style>
 body {font-type:sans-serif; 
       font-size:14px;
       color:dodgerblue;
@@ -96,7 +96,7 @@ h1{
 
     }
 
-</style> -->
+</style>
 
 </head>
 
