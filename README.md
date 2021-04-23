@@ -25,7 +25,7 @@ web portfolio
 
 
 <li class="dropdown">
-<a href="#"class="dropbtn">Menuba</a><div class="container"onclick="myFunction(this)"style="float:right;">
+<a href="#"class="dropbtn">Menu</a><div class="container"onclick="myFunction(this)"style="float:right;">
 
 <div class="bar1"></div>
 <div class="bar2"></div>
@@ -60,8 +60,8 @@ function myFunction(x){x.classList.toggle("change");}
 </div>
 
 <div style="color:steelblue;align:center">
-<h2>Meleket web design inc</h2></div> <hr>
-<style>
+<h2>Project x </h2></div> <hr>
+<!--<style>
 body {font-type:sans-serif; 
       font-size:14px;
       color:dodgerblue;
@@ -96,7 +96,7 @@ h1{
 
     }
 
-</style>
+</style> -->
 
 </head>
 
