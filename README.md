@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <h1 style="position:fixed-top;padding:10px"> Eliensa™</h1>
-title:web pro 🕸️x
+###web pro 🕸️x
 <meta charset="utf-8">
 <meta name ="viewport" content="width=device-width,initial-scale=1.0">
 
@@ -43,11 +43,6 @@ title:web pro 🕸️x
 </ul>
 
 
-<script>
-
-function myFunction(x){x.classList.toggle("change");}
-
-</script>
 
 </h1>
 
@@ -55,35 +50,8 @@ function myFunction(x){x.classList.toggle("change");}
 
 <div style="color:steelblue;align:center">
 <h2>Project x </h2></div> <hr>
-<style>
-body {font-type:sans-serif; 
-      font-size:14px;
-      color:dodgerblue;
-      padding :4px; 
-      margin:4px solid red;
 
-}
-header,ul 
-      background-color:black;
-      color:white;
-      font-type:Verdana ; 
-      font-size:18px;
-      decoration:none;
-      padding :4px solid red; 
-      margin:4px solid red;
-}
-
-h1{
-   background-color:orange;
-   color:white;
-   font-type:Verdana ; 
-   font-size:18px;
-   text-align :center; 
-           
- }
-
-</style>
-
+      
 </head>
 
 <body>
